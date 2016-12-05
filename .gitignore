@@ -2,4 +2,5 @@
 *.hi
 
 # execs
-first_haskell_prog
+first-haskell-prog
+simple-parser
