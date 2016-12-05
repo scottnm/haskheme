@@ -1,0 +1,5 @@
+# general
+*.hi
+
+# execs
+first_haskell_prog
